@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/scss/index.scss"],"names":[],"mappings":"AAAA,YACE,eAAgB,CAChB,UAAW","file":"scss.51a106ef.css","sourceRoot":"../app/public","sourcesContent":[".main-image {\n  max-width: 700px;\n  width: 100%;\n}\n\n"]}
